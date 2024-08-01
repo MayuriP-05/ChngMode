@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+:root{
+    --primary-color: #FFFFFF;
+    --secondary-color: #000000 ;
+}
+
+.dark-theme{
+    background-color:var(--secondary-color) ;
+    color: var(--primary-color);
+}
+i{
+    cursor: pointer;
+}
